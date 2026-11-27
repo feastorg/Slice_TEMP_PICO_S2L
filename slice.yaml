@@ -1,8 +1,8 @@
 schema_version: "1.0"
 
 # ── Identity ──────────────────────────────────────────────────────────────────
-id: "slice-temp-pico-s2l-r1"
-name: "Slice Template — Pico, Small, 2-Layer, Rev 1"
+id: "slice-temp-pico-s2l"
+name: "Slice Template — Pico, Small, 2-Layer"
 status: "released"
 category: "template"
 
@@ -109,7 +109,7 @@ related:
   supersedes: null
   superseded_by: null
   variants:
-    - "slice-temp-pico-l4l-r1"
+    - "slice-temp-pico-l4l"
   compatible_slices: []
 
 # ── Maintainers ───────────────────────────────────────────────────────────────
@@ -126,7 +126,7 @@ license:
 
 # ── Repository ────────────────────────────────────────────────────────────────
 repository:
-  url: "https://github.com/feastorg/Slice_TEMP_PICO_S2L-r1"
+  url: "https://github.com/feastorg/Slice_TEMP_PICO_S2L"
 
 # ── Metadata ──────────────────────────────────────────────────────────────────
 metadata:
